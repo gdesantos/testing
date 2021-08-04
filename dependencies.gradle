@@ -1,0 +1,6 @@
+ext.versions = [
+    room : "2.3.0",
+    ktor : "1.6.1",
+    koin : "3.1.2",
+    picasso : "2.8"
+]
